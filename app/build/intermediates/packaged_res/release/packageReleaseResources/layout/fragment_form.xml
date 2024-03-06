@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="40dp"
+    tools:context=".FormFragment">
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="329dp"
+        android:layout_height="68dp"
+        android:hint="@string/nama"
+        android:autofillHints="nama"
+        android:inputType="text" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupGender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextName">
+
+        <TextView
+            android:id="@+id/textViewName"
+            android:layout_width="117dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/jenkel" />
+
+        <RadioButton
+            android:id="@+id/laki"
+            android:layout_width="122dp"
+            android:layout_height="wrap_content"
+            android:text="@string/male" />
+
+        <RadioButton
+            android:id="@+id/perempuan"
+            android:layout_width="122dp"
+            android:layout_height="wrap_content"
+            android:text="@string/female" />
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/checkBoxSubs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/radioGroupGender"
+        android:text="@string/langgan" />
+
+
+    <Spinner
+        android:id="@+id/spinnerCountry"
+        android:layout_width="332dp"
+        android:layout_height="55dp"
+        android:layout_below="@id/checkBoxTerms"
+        android:visibility="visible" />
+
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinnerCountry"
+        android:layout_centerInParent="true"
+        android:text="@string/submit" />
+</RelativeLayout>

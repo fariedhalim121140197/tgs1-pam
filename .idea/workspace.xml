@@ -49,21 +49,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3103471-8293-46ab-95b4-efdc9190fa2c" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +191,23 @@
       <option name="presentableId" value="Default" />
       <updated>1709686156503</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1709707933585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709707933585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1709707973076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709707973076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
